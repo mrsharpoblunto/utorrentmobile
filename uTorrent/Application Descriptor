@@ -1,0 +1,11 @@
+MIDlet-1: UTorrentMobile,utorrentIcon.png,org.junkship.mobile.UTorrentMobile
+MIDlet-Jar-URL: uTorrrent.jar
+MIDlet-Permissions-Opt: javax.microedition.io.file
+MIDlet-Icon: utorrentIcon.png
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Version: 1.70
+MIDlet-Vendor: Glenn Conner
+MIDlet-Name: uTorrent mobile
+MIDlet-Description: An application that allows you to access the utorrent webUI from your mobile device
+MIDlet-Permissions: javax.microedition.io.Connector.http
+MicroEdition-Profile: MIDP-2.0

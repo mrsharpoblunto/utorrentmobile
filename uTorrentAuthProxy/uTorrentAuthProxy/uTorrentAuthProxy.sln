@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uTorrentAuthProxy", "uTorrentAuthProxy.csproj", "{84AD91C1-E1FB-476A-ABA5-34976B2336A5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "uTorrentAuthProxySetup", "..\uTorrentAuthProxySetup\uTorrentAuthProxySetup.vdproj", "{808522B5-1998-469A-83DF-9E0805FFC309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84AD91C1-E1FB-476A-ABA5-34976B2336A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84AD91C1-E1FB-476A-ABA5-34976B2336A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84AD91C1-E1FB-476A-ABA5-34976B2336A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84AD91C1-E1FB-476A-ABA5-34976B2336A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{808522B5-1998-469A-83DF-9E0805FFC309}.Debug|Any CPU.ActiveCfg = Debug
+		{808522B5-1998-469A-83DF-9E0805FFC309}.Release|Any CPU.ActiveCfg = Release
+		{808522B5-1998-469A-83DF-9E0805FFC309}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
